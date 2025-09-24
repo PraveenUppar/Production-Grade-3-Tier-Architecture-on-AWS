@@ -1,7 +1,5 @@
 # Production Grade 3-Tier Architecture on AWS
 
-## Overview
-
 This project demonstrates the implementation of a production-grade three-tier architecture on Amazon Web Services (AWS). The architecture is designed to be highly available, scalable, and secure, following AWS best practices.
 
 ## Architecture Diagram
